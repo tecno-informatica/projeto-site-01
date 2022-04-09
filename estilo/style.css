@@ -101,15 +101,21 @@ footer {
 }
 
 .testeimg {
-         width: 422px;
-        height: 265px;
+         width: 350px;
+         height: 240px;
+         padding-top: 14px;
+         padding-bottom: 0px;
+        
         
         
 }
 
-section#div.testeimg {
+.centro {
     text-align: center;
     background-color: chartreuse;
+    padding: 0px 0px 0px 0;
+    margin: 2% 0% 0% -4%;
+   
  
 
 }
