@@ -101,7 +101,7 @@ footer {
 }
 
 .testeimg {
-         width: 350px;
+         width: 352px;
          height: 240px;
          padding-top: 14px;
          padding-bottom: 0px;
@@ -112,9 +112,9 @@ footer {
 
 .centro {
     text-align: center;
-    background-color: chartreuse;
+    background-color: rgba(0, 0, 0, 0.952);
     padding: 0px 0px 0px 0;
-    margin: 2% 0% 0% -4%;
+    margin: 2% 0% 0% -6%;
    
  
 
